@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp_ms": 1793160643923,
+        "modalidad": "MULTIMODAL",
+        "evento": "NODE_CREATE",
+        "comando_voz": "crear no",
+        "coordenada_x": 418,
+        "coordenada_y": 157
+    },
+    {
+        "timestamp_ms": 1793160661144,
+        "modalidad": "MULTIMODAL",
+        "evento": "NODE_CREATE",
+        "comando_voz": "crear",
+        "coordenada_x": 392,
+        "coordenada_y": 275
+    }
+]
