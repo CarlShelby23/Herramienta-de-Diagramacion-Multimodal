@@ -1,6 +1,6 @@
 # Herramienta de Diagramación Multimodal (Voz + Gestos)
 
-Prototipo funcional de escritorio (**PySide6 + OpenCV + MediaPipe + Vosk ASR offline**) diseñado para el proyecto académico de IHC y neurodiversidad (Universidad Veracruzana), cubriendo el flujo completo **WF-01 a WF-05** y telemetría conductual **REQ-04**.
+Prototipo funcional de escritorio (**PySide6 + OpenCV + MediaPipe + Vosk ASR offline**) diseñado para el proyecto académico de Tesis sobre IHC y neurodiversidad (Universidad Veracruzana), cubriendo el flujo completo **WF-01 a WF-05** y telemetría conductual **REQ-04**.
 
 ## Instalación rápida
 
